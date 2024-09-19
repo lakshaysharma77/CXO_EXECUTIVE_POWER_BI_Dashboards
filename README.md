@@ -15,3 +15,4 @@ Power BI Dashboards for CXO Executives
 
 ![CSO](https://github.com/user-attachments/assets/f09ea0b8-2821-4267-bdf8-ef15c74932f9)
 ![CSO_QTD](https://github.com/user-attachments/assets/06939b4c-5f14-4645-bb2a-41f4be6e2ef4)
+![CTO](https://github.com/user-attachments/assets/58765a1d-4fad-4247-94a4-609debc8e3f8)
